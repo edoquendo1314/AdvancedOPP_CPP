@@ -1,0 +1,5 @@
+7x^8
+5x^6
+3x^4
+1x^2
+Multiplication: 105x^20
