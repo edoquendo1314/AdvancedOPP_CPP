@@ -1,0 +1,8 @@
+
+1st polynomial: 8x^4
+2nd polynomial: 3x^4
+1st canonical polynomial: 8x^4
+2nd canonical polynomial: 3x^4
+Result of addition: 11x^4
+Result of subtraction: 5x^4
+Result of multiplication: 24x^8
